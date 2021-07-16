@@ -11,3 +11,5 @@ usermod -a -G video pi
 
 To start this at boot, create a service file and launch the bash script with it:
 https://www.raspberrypi.org/documentation/linux/usage/systemd.md
+
+![photo](https://1.bp.blogspot.com/-upQ2l_DWhIM/YPDlRrgvhaI/AAAAAAAAulI/UFjkNtX9se8dsge0MW4NBAE2EpagwneuwCLcBGAsYHQ/s1333/In_Action.jpeg)
